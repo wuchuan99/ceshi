@@ -4,4 +4,5 @@ function gt(){
    var d = 22;
    var f = 30;
 
+   var e = 100;
 }
